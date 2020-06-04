@@ -4,5 +4,6 @@ Red
 blue 
 green
 pink
+indigo
 yellow
 unicorn
