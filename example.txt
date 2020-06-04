@@ -3,3 +3,4 @@ Rainbow colors
 Red
 blue 
 green
+pink
